@@ -1,0 +1,2 @@
+from silabeador import app
+
